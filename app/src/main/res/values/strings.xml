@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">reservation</string>
+    <string name="res"> Online Reservation </string>
+    <string name="tv1">Full Name:</string>
+    <string name="ed1"></string>
+    <string name="tv2">Phone no.:</string>
+    <string name="ed2"></string>
+    <string name="tv3">Pax amt:</string>
+    <string name="ed3"></string>
+    <string name="tv4">Seating area:</string>
+    <string name="rb">Smoking</string>
+    <string name="rb2">Non-smoking</string>
+    <string name="tv5">Date:</string>
+    <string name="tv6">Time:</string>
+    <string name="b1">Confirm</string>
+    <string name="b2">Reset</string>
+</resources>
